@@ -1,4 +1,4 @@
-# Awesome-HealthCare-KnowledgeBase
+# HealthCare-KnowledgeBase
 A curated list of awesome healthcare taxonomies and knowledge graphs.
 We know we may have missed important softwares or literatures, please feel free to create an issue for any suggesstions.
 
